@@ -4,5 +4,6 @@ The features present in the dataset are:GRE Score,TOEFL score,University rating,
 Steps: The steps involved in this project are data loading,non graphical analysis , graphical analysis(univariate and bivariate),missing values and outlier detection,splitting the dataset into train and test.
 building linear regression model to predict the chance of admission,checking for multicollinearity,evaluating the metrics and testing the assumptions of the linear regression.
 Pyhton libraries used: Pandas,Numpy,Seaborn,Matplotlib,sklearn,statsmodel.api
+Model : Linear regression model.
 
 Important Note: The insights and comments are mentioned under each visualization in the ipynb file. Recommendations are mentioned at the end of the code.
